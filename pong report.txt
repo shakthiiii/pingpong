@@ -1,0 +1,20 @@
+Introduction
+Ping Pong is a popular game that has been around for decades. It's a simple yet challenging game that requires quick reflexes and good hand-eye coordination. In this project, we developed a Ping Pong game using Java programming language.
+
+Objective
+The objective of this project was to create a Ping Pong game using Java that is fun, challenging, and engaging for users. We aimed to create a game that would simulate the real-life experience of playing Ping Pong while also incorporating modern features such as sound effects and graphics.
+
+Design
+The Ping Pong game was designed using Java programming language and JavaFX graphics library. We used the Model-View-Controller (MVC) architecture to separate the game's logic from its presentation. The game consists of a game board, two paddles, and a ball. The game board is divided into two halves, one for each player. The paddles are used to hit the ball back and forth across the game board. The objective is to score points by hitting the ball past the opponent's paddle.
+
+Implementation
+The game was implemented using Java programming language and JavaFX graphics library. We created a class for the game that contained methods to start and stop the game, to update the score, to move the paddles, to handle collisions, and so on. We used a game loop to update the state of the game, and handled events such as keyboard input or mouse clicks. We also used Java's built-in sound API to add sound effects to the game.
+
+Testing
+We tested the game thoroughly to ensure that it worked as expected. We created different scenarios to test different aspects of the game, such as the speed of the ball, the responsiveness of the paddles, and so on. We also tested the game on different devices and platforms to ensure that it was compatible with various systems.
+
+Results
+The Ping Pong game that we developed was a success. It was engaging, challenging, and fun to play. The graphics were smooth and responsive, and the sound effects added to the overall experience. The game was also compatible with different devices and platforms, which made it accessible to a wider audience.
+
+Conclusion
+In conclusion, we successfully developed a Ping Pong game using Java programming language and JavaFX graphics library. The game was engaging, challenging, and fun to play. We used the Model-View-Controller (MVC) architecture to separate the game's logic from its presentation. We tested the game thoroughly to ensure that it worked as expected. Overall, we believe that this project was a success and has provided us with valuable experience in game development using Java.
